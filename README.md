@@ -12,7 +12,7 @@ Discover a handpicked selection of essential tools to help you grow your busines
 - [Marketing and CRM Tools](#marketing-and-crm-tools)
 - [Collaboration and Productivity Tools](#collaboration-and-productivity-tools)
 - [DevOps and CI/CD Tools](#devops-and-cicd-tools)
-- [Low-Code/No-Code Platforms](#low-code-no-code-platforms)
+- [Low-Code/No-Code Platforms](#low-codeno-code-platforms)
 
 
 ---
